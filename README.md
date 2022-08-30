@@ -2,4 +2,4 @@
 
 Base Template sous legacy.
 
-Discord : https://discord.gg/rdev
+Discord : https://discord.gg/rdevv
